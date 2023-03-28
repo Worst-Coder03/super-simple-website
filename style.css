@@ -24,8 +24,8 @@ h1{
   
   position:relative;
   left:150px;
-  bottom:320px;
-  border:2px solid red;
+  bottom:250px;
+  border:2px solid lime;
   
   color:white;
   word-wrap: break-word;
@@ -41,13 +41,65 @@ h1{
   
   position:relative;
   left:150px;
-  bottom:320px;
-  border:2px solid red;
+  bottom:250px;
+  border:2px solid lime;
+  
+  color:white;
+  word-wrap: break-word;
+  width: 1300px;
+}
+.phys{
+  text-decoration:overline underline;
+  color:pink;
+  text-align:center;
+  font-size:40px;
+}
+  
+.biolinks{
+  text-align:justify;
+  position:relative;
+  top:500px;
+  
+}
+
+.physlinks{
+  text-align:justify;
+  position:relative;
+  top:-120px;
+}
+
+.chembody{
+  background-color:#a8327d;
+}
+.mol{
+  position:relative;
+  left:30px;
+  top:20px;
+}
+.p6title{
+  text-align:center;
+  
+  position:relative;
+  bottom:370px;
+  text-decoration:overline underline;
+  font-size:30px;
+}
+
+.p1{
+  text-align:justify;
+  font-size:16px;
+  text-align:right;
+  text-align:center;
+  
+  
+  position:relative;
+  left:150px;
+  bottom:250px;
+  border:2px solid lime;
   
   color:white;
   word-wrap: break-word;
    width: 1300px;
 
- 
-}
   
+}
